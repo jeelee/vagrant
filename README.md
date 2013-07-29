@@ -11,3 +11,5 @@ $ vagrant init vagrant-demo http://files.vagrantup.com/precise32.box
 
 Running the following command will download the specified box and start it up in Virtual Box.
 $ vagrant up
+
+The vagrant up command will generate a .vagrant folder in the vagrant_getting_started folder
